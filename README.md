@@ -1,4 +1,4 @@
-# SlipNet
+ # SlipNet
 
 > **⚠️ NOTICE:** This project is protected under the [SlipNet Source-Available License](LICENSE). You may **not** copy, redistribute, or publish this app — in source or binary form — on **any** app store, website, or platform. You may **not** use the SlipNet name, logo, or any part of the code in your own projects. Violations will result in a **DMCA takedown** and may lead to the **permanent suspension of your account**.
 
